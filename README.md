@@ -1,4 +1,5 @@
 # random-pics
+This is from Brad Traversy 50 projects in Javascript. I re-wrote the project from vanilla javascript with vue js .. fun learning 
 
 ## Project setup
 ```
